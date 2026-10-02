@@ -4,8 +4,8 @@
     "source":  "https://novatel.com/support/support-materials/firmware-download",
     "families":  [
                      {
-                         "id":  "OEM",
-                         "name":  "OEM",
+                         "id":  "OEM7",
+                         "name":  "OEM7",
                          "description":  "Placas OEM7 (OEM719, OEM729, OEM7600, OEM7700...)",
                          "versions":  [
                                           {
@@ -603,5 +603,5 @@
                                       ]
                      }
                  ],
-    "validatedAt":  "2026-10-02T15:01:57Z"
+    "validatedAt":  "2026-10-02T18:33:56Z"
 }
