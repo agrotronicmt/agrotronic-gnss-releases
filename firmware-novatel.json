@@ -1,0 +1,607 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-10-02T14:27:43.434Z",
+    "source":  "https://novatel.com/support/support-materials/firmware-download",
+    "families":  [
+                     {
+                         "id":  "OEM",
+                         "name":  "OEM",
+                         "description":  "Placas OEM7 (OEM719, OEM729, OEM7600, OEM7700...)",
+                         "versions":  [
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.10.02",
+                                              "label":  "Latest",
+                                              "date":  "2026-07-28",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.10.02_Firmware/OEM7-cards_Firmware_7.10.02.zip",
+                                              "fileName":  "OEM7-cards_Firmware_7.10.02.zip",
+                                              "notice":  "Please note that users with active TerraStar, Oceanix, or SmartNet subscriptions will require a resend of their subscription activation signal after updating to 7.10.02 firmware. Once the resend is executed and the dispatch message is received by the receiver, please send a RESET command or power-cycle the receiver. Instructions on how to resend your activation signal can be found here.",
+                                              "noticeUrl":  "https://shop.novatel.com/s/contactsupport/article/TerraStar-subscription-recovery-FW-7-09-06-and-later",
+                                              "sizeBytes":  15171519
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.10.00",
+                                              "label":  null,
+                                              "date":  "2026-02-03",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.10.00_Firmware/OEM7-cards_Firmware_7.10.00.zip",
+                                              "fileName":  "OEM7-cards_Firmware_7.10.00.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14933025
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.09.06",
+                                              "label":  "Latest Agriculture",
+                                              "date":  "2026-03-24",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.06_Firmware/OEM7-cards_Firmware_7.09.06.zip",
+                                              "fileName":  "OEM7-cards_Firmware_7.09.06.zip",
+                                              "notice":  "Please note that users with active TerraStar, Oceanix, or SmartNet subscriptions will require a resend of their subscription activation signal after updating to 7.09.06 firmware. Once the resend is executed and the dispatch message is received by the receiver, please send a RESET command or power-cycle the receiver. Instructions on how to resend your activation signal can be found here.",
+                                              "noticeUrl":  "https://shop.novatel.com/s/contactsupport/article/TerraStar-subscription-recovery-FW-7-09-06-and-later",
+                                              "sizeBytes":  14963211
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.09.05R5",
+                                              "label":  null,
+                                              "date":  "2026-02-02",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.05R5_Firmware/OEM7-cards_Firmware_7.09.05R5.zip",
+                                              "fileName":  "OEM7-cards_Firmware_7.09.05R5.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14851953
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.09.02R2",
+                                              "label":  null,
+                                              "date":  "2026-02-02",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.02R2_Firmware/OEM7-cards_Firmware_7.09.02R2.zip",
+                                              "fileName":  "OEM7-cards_Firmware_7.09.02R2.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14423023
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.09.02",
+                                              "label":  null,
+                                              "date":  "2024-04-11",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.02_Firmware/OEM7-cards_Firmware_7.09.02.zip",
+                                              "fileName":  "OEM7-cards_Firmware_7.09.02.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14673953
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.09.01",
+                                              "label":  null,
+                                              "date":  "2024-04-11",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.01_Firmware/OEM7_Firmware_7.09.01.zip",
+                                              "fileName":  "OEM7_Firmware_7.09.01.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  27857688
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.09.00",
+                                              "label":  null,
+                                              "date":  "2023-05-04",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.00_Firmware/OEM7_Firmware_7.09.00.zip",
+                                              "fileName":  "OEM7_Firmware_7.09.00.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14517250
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.08.15",
+                                              "label":  null,
+                                              "date":  "2023-07-18",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.08.15_Firmware/OEM7_Firmware_7.08.15.zip",
+                                              "fileName":  "OEM7_Firmware_7.08.15.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14443885
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.08.14",
+                                              "label":  null,
+                                              "date":  "2022-11-22",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.08.14_Firmware/OEM7_Firmware_7.08.14.zip",
+                                              "fileName":  "OEM7_Firmware_7.08.14.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14390476
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.08.10",
+                                              "label":  null,
+                                              "date":  "2022-01-25",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.08.10_Firmware/OEM7_Firmware_7.08.10.zip",
+                                              "fileName":  "OEM7_Firmware_7.08.10.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  13690763
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.08.00",
+                                              "label":  null,
+                                              "date":  "2021-06-03",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.08.08_Firmware/OEM7_Firmware_7.08.00.zip",
+                                              "fileName":  "OEM7_Firmware_7.08.00.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16642255
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.07.03",
+                                              "label":  null,
+                                              "date":  "2019-10-24",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7-07-03-OEM/7.07.03-OEM.zip",
+                                              "fileName":  "7.07.03-OEM.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16621584
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.04.00",
+                                              "label":  null,
+                                              "date":  "2018-03-02",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/70400-Firmware/70400-Firmware.zip",
+                                              "fileName":  "70400-Firmware.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14525927
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.03.02",
+                                              "label":  null,
+                                              "date":  "2017-10-04",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/70302-Firmware/70302-Firmware.zip",
+                                              "fileName":  "70302-Firmware.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14538326
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.03.01",
+                                              "label":  null,
+                                              "date":  "2017-10-04",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/70301-Firmware/70301-Firmware.zip",
+                                              "fileName":  "70301-Firmware.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16064370
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.03.00",
+                                              "label":  null,
+                                              "date":  "2017-07-13",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/70300-Firmware/70300-Firmware.zip",
+                                              "fileName":  "70300-Firmware.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  13923240
+                                          },
+                                          {
+                                              "product":  "OEM7",
+                                              "version":  "7.102",
+                                              "label":  null,
+                                              "date":  "2016-10-07",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEM7102/OEM7102.zip",
+                                              "fileName":  "OEM7102.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  12575067
+                                          }
+                                      ]
+                     },
+                     {
+                         "id":  "OEMV",
+                         "name":  "OEMV",
+                         "description":  "Placas e receptores OEMV",
+                         "versions":  [
+                                          {
+                                              "product":  "OEMV (OEM)",
+                                              "version":  "3.907",
+                                              "label":  null,
+                                              "date":  "2015-03-25",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/3907OEM/3907OEM.zip",
+                                              "fileName":  "3907OEM.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  3580946
+                                          },
+                                          {
+                                              "product":  "OEMV (Update)",
+                                              "version":  "3.907",
+                                              "label":  null,
+                                              "date":  "2015-03-25",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/3907UPDT/3907UPDT.zip",
+                                              "fileName":  "3907UPDT.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  10291816
+                                          }
+                                      ]
+                     },
+                     {
+                         "id":  "OEM6",
+                         "name":  "OEM6",
+                         "description":  "Placas OEM6 (OEM615, OEM617, OEM628...)",
+                         "versions":  [
+                                          {
+                                              "product":  "OEM6",
+                                              "version":  "6.730",
+                                              "label":  "Latest",
+                                              "date":  "2017-09-13",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEM6FW/OEM6FW.zip",
+                                              "fileName":  "OEM6FW.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  10277316
+                                          },
+                                          {
+                                              "product":  "OEM6",
+                                              "version":  "6.700",
+                                              "label":  null,
+                                              "date":  "2016-04-04",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/6700/6700.zip",
+                                              "fileName":  "6700.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  10177914
+                                          },
+                                          {
+                                              "product":  "OEM6",
+                                              "version":  "6.631",
+                                              "label":  null,
+                                              "date":  "2017-01-10",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEM6631/OEM6631.zip",
+                                              "fileName":  "OEM6631.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  17984486
+                                          },
+                                          {
+                                              "product":  "OEM6",
+                                              "version":  "6.622",
+                                              "label":  null,
+                                              "date":  "2016-04-06",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEM6-622/OEM6.622.zip",
+                                              "fileName":  "OEM6.622.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  10077662
+                                          },
+                                          {
+                                              "product":  "OEM6",
+                                              "version":  "6.621",
+                                              "label":  null,
+                                              "date":  "2015-09-29",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEM6621/OEM6621.zip",
+                                              "fileName":  "OEM6621.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  10118529
+                                          },
+                                          {
+                                              "product":  "OEM6",
+                                              "version":  "6.620",
+                                              "label":  null,
+                                              "date":  "2015-09-29",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEM6620/OEM6620.zip",
+                                              "fileName":  "OEM6620.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  10113065
+                                          },
+                                          {
+                                              "product":  "OEM6",
+                                              "version":  "6.604",
+                                              "label":  null,
+                                              "date":  "2016-04-06",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEM6-604/OEM6.604.zip",
+                                              "fileName":  "OEM6.604.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  10049844
+                                          },
+                                          {
+                                              "product":  "OEM6",
+                                              "version":  "6.600",
+                                              "label":  null,
+                                              "date":  "2015-02-23",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEM6600/OEM6600.zip",
+                                              "fileName":  "OEM6600.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  8823237
+                                          }
+                                      ]
+                     },
+                     {
+                         "id":  "OEMSTAR",
+                         "name":  "OEMSTAR",
+                         "description":  "OEMStar e Ag-Star",
+                         "versions":  [
+                                          {
+                                              "product":  "Ag-Star Application",
+                                              "version":  "2.02",
+                                              "label":  null,
+                                              "date":  "2018-10-12",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/AGSTARAPP202/AGSTARAPP202.zip",
+                                              "fileName":  "AGSTARAPP202.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  139861
+                                          },
+                                          {
+                                              "product":  "OEMStar",
+                                              "version":  "1.202",
+                                              "label":  null,
+                                              "date":  "2018-10-12",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEMStar-Firmware/OEMStar-Firmware.zip",
+                                              "fileName":  "OEMStar-Firmware.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16029169
+                                          },
+                                          {
+                                              "product":  "OEMStar (OEM)",
+                                              "version":  "1.202",
+                                              "label":  null,
+                                              "date":  "2018-10-12",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/OEMStar-Firmware-OEM-Version/OEMStar-Firmware-OEM-Version.zip",
+                                              "fileName":  "OEMStar-Firmware-OEM-Version.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  8443785
+                                          }
+                                      ]
+                     },
+                     {
+                         "id":  "SMART6",
+                         "name":  "SMART6",
+                         "description":  "Antenas SMART6 e SMART6-L (aplicação)",
+                         "versions":  [
+                                          {
+                                              "product":  "SMART6 Application",
+                                              "version":  "2.10",
+                                              "label":  null,
+                                              "date":  "2014-08-29",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/SMART6APP_210/SMART6APP_210.zip",
+                                              "fileName":  "SMART6APP_210.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  1352743
+                                          },
+                                          {
+                                              "product":  "SMART6-L Application",
+                                              "version":  "1",
+                                              "label":  null,
+                                              "date":  "2015-04-07",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/SMART6L-App-ESCOM0200RN0001/SMART6L-App-ESCOM0200RN0001.zip",
+                                              "fileName":  "SMART6L-App-ESCOM0200RN0001.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  172074
+                                          }
+                                      ]
+                     },
+                     {
+                         "id":  "SMART7",
+                         "name":  "SMART7",
+                         "description":  "Antenas SMART7",
+                         "versions":  [
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.09.06",
+                                              "label":  "Latest Agriculture",
+                                              "date":  "2026-03-24",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.06_Firmware/SMART7_Firmware_7.09.06.zip",
+                                              "fileName":  "SMART7_Firmware_7.09.06.zip",
+                                              "notice":  "Please note that users with active TerraStar, Oceanix, or SmartNet subscriptions will require a resend of their subscription activation signal after updating to 7.09.06 firmware. Once the resend is executed and the dispatch message is received by the receiver, please send a RESET command or power-cycle the receiver. Instructions on how to resend your activation signal can be found here.",
+                                              "noticeUrl":  "https://shop.novatel.com/s/contactsupport/article/TerraStar-subscription-recovery-FW-7-09-06-and-later",
+                                              "sizeBytes":  16578915
+                                          },
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.09.05R5",
+                                              "label":  null,
+                                              "date":  "2026-02-02",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.05R5_Firmware/SMART7_Firmware_7.09.05R5.zip",
+                                              "fileName":  "SMART7_Firmware_7.09.05R5.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16451300
+                                          },
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.09.05R2",
+                                              "label":  "(RED Cybersecurity: Only SMART7I, SMART7W and SMART7SI models)",
+                                              "date":  "2025-07-28",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.05R2_Firmware/SMART7_Firmware_7.09.05R2.zip",
+                                              "fileName":  "SMART7_Firmware_7.09.05R2.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16281910
+                                          },
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.09.05",
+                                              "label":  null,
+                                              "date":  "2025-05-23",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.05_Firmware/SMART7_Firmware_7.09.05.zip",
+                                              "fileName":  "SMART7_Firmware_7.09.05.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16117954
+                                          },
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.09.01",
+                                              "label":  null,
+                                              "date":  "2024-04-11",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.01_Firmware/SMART7_Firmware_7.09.01.zip",
+                                              "fileName":  "SMART7_Firmware_7.09.01.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16084895
+                                          },
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.08.15",
+                                              "label":  null,
+                                              "date":  "2023-07-18",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.08.15_Firmware/SMART7_Firmware_7.08.15.zip",
+                                              "fileName":  "SMART7_Firmware_7.08.15.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16066001
+                                          },
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.08.01R1",
+                                              "label":  null,
+                                              "date":  "2021-12-21",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.08.01R1-Firmware/7.08.01R1-Firmware-SMART7.zip",
+                                              "fileName":  "7.08.01R1-Firmware-SMART7.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  18664841
+                                          },
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.08.01",
+                                              "label":  null,
+                                              "date":  "2021-01-20",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.08.01-Firmware/7.08.01-Firmware-SMART7.zip",
+                                              "fileName":  "7.08.01-Firmware-SMART7.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  18626447
+                                          },
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.06.03",
+                                              "label":  null,
+                                              "date":  "2019-10-24",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7-06-03-SM7/7.06.03-SM7.zip",
+                                              "fileName":  "7.06.03-SM7.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  18015786
+                                          },
+                                          {
+                                              "product":  "SMART7",
+                                              "version":  "7.05.01",
+                                              "label":  null,
+                                              "date":  "2018-10-16",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/SM7-Firmware70501/SM7-Firmware70501.zip",
+                                              "fileName":  "SM7-Firmware70501.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  17574946
+                                          }
+                                      ]
+                     },
+                     {
+                         "id":  "SMART2",
+                         "name":  "SMART2",
+                         "description":  "Antenas SMART2",
+                         "versions":  [
+                                          {
+                                              "product":  "SMART2",
+                                              "version":  "7.09.06",
+                                              "label":  "Latest Agriculture",
+                                              "date":  "2026-03-24",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.06_Firmware/SMART2_Firmware_7.09.06.zip",
+                                              "fileName":  "SMART2_Firmware_7.09.06.zip",
+                                              "notice":  "Please note that users with active TerraStar, Oceanix, or SmartNet subscriptions will require a resend of their subscription activation signal after updating to 7.09.06 firmware. Once the resend is executed and the dispatch message is received by the receiver, please send a RESET command or power-cycle the receiver. Instructions on how to resend your activation signal can be found here.",
+                                              "noticeUrl":  "https://shop.novatel.com/s/contactsupport/article/TerraStar-subscription-recovery-FW-7-09-06-and-later",
+                                              "sizeBytes":  15166358
+                                          },
+                                          {
+                                              "product":  "SMART2",
+                                              "version":  "7.09.05R5",
+                                              "label":  null,
+                                              "date":  "2026-02-02",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.05R5_Firmware/SMART2_Firmware_7.09.05R5.zip",
+                                              "fileName":  "SMART2_Firmware_7.09.05R5.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  15034627
+                                          },
+                                          {
+                                              "product":  "SMART2",
+                                              "version":  "7.09.05",
+                                              "label":  null,
+                                              "date":  "2025-05-23",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.05_Firmware/SMART2_Firmware_7.09.05.zip",
+                                              "fileName":  "SMART2_Firmware_7.09.05.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  13722750
+                                          },
+                                          {
+                                              "product":  "SMART2",
+                                              "version":  "7.09.01",
+                                              "label":  null,
+                                              "date":  "2024-04-11",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.09.01_Firmware/SMART2_Firmware_7.09.01.zip",
+                                              "fileName":  "SMART2_Firmware_7.09.01.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14641134
+                                          },
+                                          {
+                                              "product":  "SMART2",
+                                              "version":  "7.08.15",
+                                              "label":  null,
+                                              "date":  "2023-07-18",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.08.15_Firmware/SMART2_Firmware_7.08.15.zip",
+                                              "fileName":  "SMART2_Firmware_7.08.15.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  14622643
+                                          },
+                                          {
+                                              "product":  "SMART2",
+                                              "version":  "7.08.01",
+                                              "label":  null,
+                                              "date":  "2021-01-20",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/7.08.01-Firmware/7.08.01-Firmware-SMART2.zip",
+                                              "fileName":  "7.08.01-Firmware-SMART2.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  17196983
+                                          },
+                                          {
+                                              "product":  "SMART2",
+                                              "version":  "7.06.02",
+                                              "label":  null,
+                                              "date":  "2019-10-29",
+                                              "url":  "https://hexagondownloads.blob.core.windows.net/public/Novatel/assets/Documents/Downloads/Zips/SM2-70602/SM2-70602.zip",
+                                              "fileName":  "SM2-70602.zip",
+                                              "notice":  null,
+                                              "noticeUrl":  null,
+                                              "sizeBytes":  16576605
+                                          }
+                                      ]
+                     }
+                 ],
+    "validatedAt":  "2026-10-02T14:35:41Z"
+}
