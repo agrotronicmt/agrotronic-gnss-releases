@@ -333,9 +333,9 @@
                                       ]
                      },
                      {
-                         "id":  "OEMSTAR",
-                         "name":  "OEMSTAR",
-                         "description":  "OEMStar e Ag-Star",
+                         "id":  "AGSTAR",
+                         "name":  "AGSTAR",
+                         "description":  "Antenas Ag-Star (OEMStar)",
                          "versions":  [
                                           {
                                               "product":  "Ag-Star Application",
@@ -603,5 +603,5 @@
                                       ]
                      }
                  ],
-    "validatedAt":  "2026-10-02T14:35:41Z"
+    "validatedAt":  "2026-10-02T15:01:57Z"
 }
